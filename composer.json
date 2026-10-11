@@ -1,0 +1,5 @@
+{
+  "name": "talent-engine/api",
+  "description": "API REST Talent Engine",
+  "require": { "php": ">=8.2", "smalot/pdfparser": "^2.9" }
+}
